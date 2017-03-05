@@ -6,6 +6,14 @@ is-json-file
 
 Determine if a resource is a JSON file.
 
+Install
+-------
+You can install this module via the following command.
+
+```sh
+$ npm install --save is-json-file
+```
+
 Usage
 -----
 ```js
