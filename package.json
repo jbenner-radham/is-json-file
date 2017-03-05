@@ -1,0 +1,29 @@
+{
+  "name": "is-json-file",
+  "version": "0.0.0",
+  "description": "Determine if a resource is a JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbenner-radham/is-json-file.git"
+  },
+  "keywords": [
+    "file",
+    "filename",
+    "is",
+    "JSON"
+  ],
+  "author": "James Benner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbenner-radham/is-json-file/issues"
+  },
+  "homepage": "https://github.com/jbenner-radham/is-json-file#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
