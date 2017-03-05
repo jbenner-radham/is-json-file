@@ -1,8 +1,8 @@
 {
   "name": "is-json-file",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Determine if a resource is a JSON file.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "lint:js": "eslint lib/index.js",
     "test": "npm run-script lint:js && mocha"
